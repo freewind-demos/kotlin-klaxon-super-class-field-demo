@@ -1,20 +1,6 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Klaxon Demo
+==================
 
-Hello world from kotlin.
+Use Klaxon to parse and render JSON and objects.
 
-```
-./gradlew run
-```
-
-You will see "Hello, Kotlin!" from console.
-
-Run tests:
-
-```
-./gradlew test
-```
-
-You will see test result from console.
-
-
+Note the most important function is `wrapQuotes`.
