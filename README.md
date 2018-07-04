@@ -1,6 +1,6 @@
-Kotlin Klaxon Demo
-==================
+Kotlin Klaxon Super Class Field Demo
+======================================
 
-Use Klaxon to parse and render JSON and objects.
+Parse and render a data class which has a super class also with fields.
 
-Note the most important function is `wrapQuotes`.
+You can see the `id` field in super class is ignored when parsing a JSON string.
